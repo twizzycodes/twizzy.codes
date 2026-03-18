@@ -25,7 +25,7 @@ export default function Experience() {
                             "Kyo Profile is a portfolio platform similar to guns.lol where users can create customizable portfolio pages with custom backgrounds, music, and more. It's a platform that allows users to showcase their work and personality in a unique and personalized way.",
                             "As the founder and head developer, I'm responsible for all aspects of the platform including frontend development, backend development, and overall design. The platform provides users with extensive customization options to make their portfolio truly their own."
                         ]}
-                        cardImage="/potato-logo.png"
+                        cardImage="/kyo.png"
                         cardDescription="Kyo Profile is a portfolio platform similar to guns.lol where users can create customizable portfolio pages with custom backgrounds, music, and more."
                         media={[]}
                         myRole="Head Developer"
@@ -41,7 +41,7 @@ export default function Experience() {
                             "As a developer, I work on implementing features including premium moderation and protection modules like filters, fake permissions, anti-nuke, and anti-raid systems. Kyro also offers automated moderation, role & permission management, custom commands, real-time analytics, seamless integrations with Twitch, TikTok, and Spotify, and enterprise-grade security features.",
                             "The bot powers thousands of Discord servers with features including translation, text-to-speech, reaction triggers, auto responders, levels, snipe, giveaways, games, and countless more utilities. Kyro is designed to be the only bot you need for your server."
                         ]}
-                        cardImage="/kyos.png"
+                        cardImage="/kyro.png"
                         cardDescription="Kyro is the ultimate Discord management solution, providing bots, dashboards, and automations all in one place with premium moderation, protection, and engagement features."
                         media={[]}
                         myRole="Founder/Lead Developer"
