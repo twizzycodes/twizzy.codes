@@ -38,11 +38,11 @@ export default function Experience() {
                         title="Kyro"
                         fullDescription={[
                             "Kyro is the ultimate Discord management solution, providing bots, dashboards, and automations all in one place. It's a leading bot for management and engagement, built to elevate community experiences and streamline server management.",
-                            "As a developer, I work on implementing features including premium moderation and protection modules like filters, fake permissions, anti-nuke, and anti-raid systems. Kyos also offers automated moderation, role & permission management, custom commands, real-time analytics, seamless integrations with Twitch, TikTok, and Spotify, and enterprise-grade security features.",
-                            "The bot powers thousands of Discord servers with features including translation, text-to-speech, reaction triggers, auto responders, levels, snipe, giveaways, games, and countless more utilities. Kyos is designed to be the only bot you need for your server."
+                            "As a developer, I work on implementing features including premium moderation and protection modules like filters, fake permissions, anti-nuke, and anti-raid systems. Kyro also offers automated moderation, role & permission management, custom commands, real-time analytics, seamless integrations with Twitch, TikTok, and Spotify, and enterprise-grade security features.",
+                            "The bot powers thousands of Discord servers with features including translation, text-to-speech, reaction triggers, auto responders, levels, snipe, giveaways, games, and countless more utilities. Kyro is designed to be the only bot you need for your server."
                         ]}
                         cardImage="/kyos.png"
-                        cardDescription="Kyos is the ultimate Discord management solution, providing bots, dashboards, and automations all in one place with premium moderation, protection, and engagement features."
+                        cardDescription="Kyro is the ultimate Discord management solution, providing bots, dashboards, and automations all in one place with premium moderation, protection, and engagement features."
                         media={[]}
                         myRole="Founder/Lead Developer"
                         timeline="September 2022 - Present"
