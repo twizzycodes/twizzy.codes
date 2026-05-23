@@ -19,17 +19,16 @@ export default function Experience() {
                 </motion.h1>
                 <ul className={`flex flex-col pt-6 pb-1 gap-4 overflow-hidden`}>
                     <ExperienceCard
-                        url="https://kyo.gg"
-                        title="Kyo Profile"
+                        url="https://github.com/bigcheesh/openflow"
+                        title="OpenFlow"
                         fullDescription={[
-                            "Kyo Profile is a portfolio platform similar to guns.lol where users can create customizable portfolio pages with custom backgrounds, music, and more. It's a platform that allows users to showcase their work and personality in a unique and personalized way.",
-                            "As the founder and head developer, I'm responsible for all aspects of the platform including frontend development, backend development, and overall design. The platform provides users with extensive customization options to make their portfolio truly their own."
+                            "OpenFlow is a powerful jailbroken AI platform that lets you use models like Claude and Gemini with zero restrictions for maximum flexibility."
                         ]}
                         cardImage="/kyo.png"
                         cardDescription="Kyo Profile is a portfolio platform similar to guns.lol where users can create customizable portfolio pages with custom backgrounds, music, and more."
                         media={[]}
-                        myRole="Discontinued"
-                        timeline="March 2021 - 2023"
+                        myRole="Operational"
+                        timeline="March 2025 - Present"
                         delay={0.1}
                         gradient="bg-gradient-to-br"
                     />
