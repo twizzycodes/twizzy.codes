@@ -36,7 +36,8 @@ export default function Experience() {
                         url="https://oceansystems.vercel.app/"
                         title="OceanSystems"
                         fullDescription={[
-                            "Ocean Systems is a multi use discord moderation build in website bot, where you can moderate your server from a dashboard."
+                            "Ocean Systems is a multi use discord moderation build in website bot, where you can moderate your server from a dashboard. We are still in development and now require a key to access.",
+                            "If you would like to try, please add me on discord lix.bear to get pre-access."
                         ]}
                         cardImage="/oceansystems.png"
                         cardDescription="OceanSystems is the ultimate Discord management solution, providing bots, dashboards, and automations all in one place with premium moderation, protection, and engagement features."
