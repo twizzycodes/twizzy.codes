@@ -105,7 +105,7 @@ export default function About() {
           />
           <AboutCard
             title="Frontend"
-            description="I have ~3 years of experience with frontend development, and I have worked with a variety of different frameworks and libraries."
+            description="I have ~4 years of experience with frontend development, and I have worked with a variety of different frameworks and libraries."
             tech={frontendTech}
             direction="left"
             span={1}
