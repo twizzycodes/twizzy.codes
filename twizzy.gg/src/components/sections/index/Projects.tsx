@@ -17,7 +17,7 @@ export default function Projects() {
           transition={{ duration: 0.5, delay: 0.1, ease: [0.39, 0.21, 0.12, 0.96], }}
           viewport={{ amount: 0.1, once: true }}
         >
-          Other Projects
+          
         </motion.h1>
         <ul className={`${showAll ? '' : 'max-h-[100rem]'} grid md:grid-cols-2 pt-6 pb-1 grid-cols-1 gap-4 overflow-hidden`}>
           {!showAll &&
