@@ -1,7 +1,7 @@
 import { useEffect, useMemo, useRef, useState } from "react";
 import { Volume2, VolumeX } from "lucide-react";
 
-const TRACKS = ["/profile/GREECE.mp3"];
+const TRACKS = ["/profile/GREECE.mp3"]; // multiple tracks ["/profile/GREECE.mp3", "/profile/GREECE.mp3"];
 
 interface ProfileMediaProps {
   profileInView: boolean;
