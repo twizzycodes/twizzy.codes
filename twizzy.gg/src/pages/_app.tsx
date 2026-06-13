@@ -11,10 +11,10 @@ export default function App({ Component, pageProps }: AppProps) {
       <NextSeo
         title={"twizzy.codes"}
         description={"Twizzy's personal site"}
-        canonical={`https://twizzy.gg${router.asPath.split("?")[0] === "/" ? "" : router.asPath.split("?")[0]}`}
+        canonical={`https://twizzy.codes${router.asPath.split("?")[0] === "/" ? "" : router.asPath.split("?")[0]}`}
         themeColor={"#2563eb"}
         openGraph={{
-          url: `https://twizzy.gg${router.asPath.split("?")[0] === "/" ? "" : router.asPath.split("?")[0]}`,
+          url: `https://twizzy.codes${router.asPath.split("?")[0] === "/" ? "" : router.asPath.split("?")[0]}`,
           title: "twizzy.codes",
           description: "Twizzy's personal site",
           images: [
