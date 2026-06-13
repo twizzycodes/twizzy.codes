@@ -1,6 +1,6 @@
 # twizzy.gg
 
-Personal portfolio site. Live at [twizzygg.vercel.app](https://twizzygg.vercel.app).
+Personal portfolio site. Live at [twizzygg.vercel.app](https://twizzy.codes).
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178c6?style=flat-square&logo=typescript&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
