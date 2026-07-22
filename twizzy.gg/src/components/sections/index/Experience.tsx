@@ -19,21 +19,6 @@ export default function Experience() {
                 </motion.h1>
                 <ul className={`flex flex-col pt-6 pb-1 gap-4 overflow-hidden`}>
                     <ExperienceCard
-                        url="https://github.com/bigcheesh/openflow"
-                        title="OpenFlow"
-                        fullDescription={[
-                            "OpenFlow is a powerful jailbroken AI platform that lets you use models like Claude and Gemini with zero restrictions for maximum flexibility.",
-                            "This has now been discontinued as I have stopped updating."
-                        ]}
-                        cardImage="/kyo.png"
-                        cardDescription="OpenFlow is a powerful jailbroken AI platform that lets you use models like Claude and Gemini with zero restrictions for maximum flexibility."
-                        media={[]}
-                        myRole="Developer"
-                        timeline="March 2025 - discontinued"
-                        delay={0.1}
-                        gradient="bg-gradient-to-br from-sky-400 to-sky-200"
-                    />
-                    <ExperienceCard
                         url="https://github.com/twizzycodes/lemonade-cli"
                         title="Lemonade CLI"
                         fullDescription={[
@@ -47,6 +32,21 @@ export default function Experience() {
                         timeline="July 2026 - Current"
                         delay={0.1}
                         gradient="bg-gradient-to-br from-orange-500 to-yellow-300"
+                    />
+                    <ExperienceCard
+                        url="https://github.com/bigcheesh/openflow"
+                        title="OpenFlow"
+                        fullDescription={[
+                            "OpenFlow is a powerful jailbroken AI platform that lets you use models like Claude and Gemini with zero restrictions for maximum flexibility.",
+                            "This has now been discontinued as I have stopped updating."
+                        ]}
+                        cardImage="/kyo.png"
+                        cardDescription="OpenFlow is a powerful jailbroken AI platform that lets you use models like Claude and Gemini with zero restrictions for maximum flexibility."
+                        media={[]}
+                        myRole="Developer"
+                        timeline="March 2025 - discontinued"
+                        delay={0.1}
+                        gradient="bg-gradient-to-br from-sky-400 to-sky-200"
                     />
                     <ExperienceCard
                         url="https://oceansystems.vercel.app/"
