@@ -58,7 +58,7 @@ export default function Experience() {
                         cardImage="/oceansystems.png"
                         cardDescription="OceanSystems is the ultimate Discord management solution, providing bots, dashboards, and automations all in one place with premium moderation, protection, and engagement features."
                         media={[]}
-                        myRole="Founder/Lead Developer"
+                        myRole="Developer"
                         timeline="September 2022 - Present"
                         delay={0.2}
                         gradient="bg-gradient-to-br from-purple-900 to-black"
