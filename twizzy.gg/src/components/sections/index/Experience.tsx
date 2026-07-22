@@ -31,7 +31,7 @@ export default function Experience() {
                         myRole="Developer"
                         timeline="March 2025 - discontinued"
                         delay={0.1}
-                        gradient="bg-gradient-to-br"
+                        gradient="bg-gradient-to-br from-sky-400 to-sky-200"
                     />
                     <ExperienceCard
                         url="https://github.com/twizzycodes/lemonade-cli"
@@ -41,7 +41,7 @@ export default function Experience() {
                             "any model on OpenRouter https://openrouter.ai (Multiple free models)"
                         ]}
                         cardImage="/lemonade.png"
-                        cardDescription="An open-source, model-agnostic AI coding CLI. Lemonade is a Claude Code–style agentic terminal assistant that runs against **any model on OpenRouter https://openrouter.ai — pick whichever model you have credits or access for. Point it at an API key"
+                        cardDescription="An open-source, model-agnostic AI coding CLI. Lemonade is a Claude Code–style agentic terminal assistant that runs against any model on OpenRouter https://openrouter.ai — pick whichever model you have credits or access for. Point it at an API key"
                         media={[]}
                         myRole="Developer"
                         timeline="July 2026 - Current"
@@ -61,7 +61,7 @@ export default function Experience() {
                         myRole="Founder/Lead Developer"
                         timeline="September 2022 - Present"
                         delay={0.2}
-                        gradient="bg-gradient-to-br"
+                        gradient="bg-gradient-to-br from-purple-900 to-black"
                     />
                 </ul>
             </section>
