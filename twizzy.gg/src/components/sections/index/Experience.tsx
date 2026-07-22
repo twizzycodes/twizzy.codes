@@ -28,7 +28,7 @@ export default function Experience() {
                         cardImage="/lemonade.png"
                         cardDescription="An open-source, model-agnostic AI coding CLI. Lemonade is a Claude Code–style agentic terminal assistant that runs against any model on OpenRouter https://openrouter.ai — pick whichever model you have credits or access for. Point it at an API key"
                         media={[]}
-                        myRole="Developer"
+                        myRole="Creator/Developer"
                         timeline="July 2026 - Current"
                         delay={0.1}
                         gradient="bg-gradient-to-br from-orange-500 to-yellow-300"
@@ -43,7 +43,7 @@ export default function Experience() {
                         cardImage="/kyo.png"
                         cardDescription="OpenFlow is a powerful jailbroken AI platform that lets you use models like Claude and Gemini with zero restrictions for maximum flexibility."
                         media={[]}
-                        myRole="Developer"
+                        myRole="Creator/Developer"
                         timeline="March 2025 - discontinued"
                         delay={0.1}
                         gradient="bg-gradient-to-br from-sky-400 to-sky-200"
@@ -58,7 +58,7 @@ export default function Experience() {
                         cardImage="/oceansystems.png"
                         cardDescription="OceanSystems is the ultimate Discord management solution, providing bots, dashboards, and automations all in one place with premium moderation, protection, and engagement features."
                         media={[]}
-                        myRole="Developer"
+                        myRole="Creator/Developer"
                         timeline="September 2022 - Present"
                         delay={0.2}
                         gradient="bg-gradient-to-br from-purple-900 to-black"
