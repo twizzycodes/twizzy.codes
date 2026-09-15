@@ -1,0 +1,29 @@
+<svg width="1200" height="675" viewBox="0 0 1200 675" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="675" fill="#050505"/>
+  <rect x="62" y="56" width="1076" height="563" rx="32" fill="#0C0C0F" stroke="#24242B" stroke-width="2"/>
+  <rect x="100" y="96" width="1000" height="72" rx="18" fill="#111116"/>
+  <circle cx="139" cy="132" r="10" fill="#F04444"/>
+  <circle cx="171" cy="132" r="10" fill="#F6C453"/>
+  <circle cx="203" cy="132" r="10" fill="#44D17A"/>
+  <rect x="810" y="118" width="252" height="28" rx="14" fill="#1C1C24"/>
+  <rect x="134" y="222" width="388" height="244" rx="24" fill="#15151C"/>
+  <path d="M287 300C287 284.604 303.667 274.981 317 282.679L397 328.867C410.333 336.565 410.333 355.811 397 363.509L317 409.697C303.667 417.395 287 407.772 287 392.376V300Z" fill="#F8F8F8"/>
+  <rect x="571" y="230" width="320" height="30" rx="15" fill="#F8F8F8"/>
+  <rect x="571" y="284" width="420" height="18" rx="9" fill="#6B6B75"/>
+  <rect x="571" y="323" width="370" height="18" rx="9" fill="#4C4C55"/>
+  <rect x="571" y="386" width="154" height="46" rx="23" fill="#F8F8F8"/>
+  <rect x="747" y="386" width="154" height="46" rx="23" fill="#1D1D25" stroke="#33333D" stroke-width="2"/>
+  <rect x="134" y="510" width="154" height="40" rx="20" fill="#15151C"/>
+  <rect x="312" y="510" width="154" height="40" rx="20" fill="#15151C"/>
+  <rect x="490" y="510" width="154" height="40" rx="20" fill="#15151C"/>
+  <rect x="668" y="510" width="154" height="40" rx="20" fill="#15151C"/>
+  <rect x="846" y="510" width="154" height="40" rx="20" fill="#15151C"/>
+  <text x="570" y="258" fill="#F8F8F8" font-family="Arial, Helvetica, sans-serif" font-size="42" font-weight="700">Nexus Movies</text>
+  <text x="570" y="434" fill="#050505" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="700">Watch Now</text>
+  <text x="785" y="434" fill="#E9E9EC" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="700">Live TV</text>
+  <text x="158" y="536" fill="#E9E9EC" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="700">Movies</text>
+  <text x="336" y="536" fill="#E9E9EC" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="700">TV Shows</text>
+  <text x="518" y="536" fill="#E9E9EC" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="700">Live TV</text>
+  <text x="696" y="536" fill="#E9E9EC" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="700">No Signup</text>
+  <text x="874" y="536" fill="#E9E9EC" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="700">Free</text>
+</svg>
